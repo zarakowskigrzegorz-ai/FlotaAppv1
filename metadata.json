@@ -1,0 +1,6 @@
+{
+  "name": "Flota i Przeglądy",
+  "description": "Zaawansowane zarządzanie przeglądami rejestracyjnymi i stanem floty pojazdów (ciągniki, naczepy).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
